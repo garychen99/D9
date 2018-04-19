@@ -1,0 +1,11 @@
+2018.03.14（V0.13)
+1,喷头温度监测与热床监测取消；           Fix  Monitoring extruder and bed temperature during printing and report error.
+2,修改自动调平第一步动作，Z轴抬升5mm.    Fix auto leveling  z reaise 5mm
+3,修正暂停打印后继续打印跳出参数调整页面   Fix pause printing with Configure screen jump out.
+
+2018.04.06（V0.14）
+1，修正不插SD卡返回延迟问题   Fix delay responding when no SD card inserted.
+
+
+2018.04.16（V0.15）
+1，修正断电续打或者暂停打印Z轴复位碰到模型问题  Fix Z axis moving down when resuming printing after power failure.
